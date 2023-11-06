@@ -1,6 +1,6 @@
 # Carlos Ramirez
 
-Welcome to my page, my name is _Carlos Ramirez_ and I'm a fresh alumni of Green Fox Academy. I'm specializing in Full Stack Junior Developer and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
+Welcome to my page, my name is _Carlos Ramirez_ and I'm a fresh alumni of _Green Fox Academy_. I'm specializing in _Full Stack Junior Developer_ and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
 
@@ -9,8 +9,6 @@ LinkedIn: www.linkedin.com/in/carlos-ramirez-suarez-a85a1b17
 Email: cramirez16@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-
-{project-name}: {link-to-repo}
 
 Odin-Recipes: https://github.com/cramirez16/odin-recipes
 
